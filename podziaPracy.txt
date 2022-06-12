@@ -1,0 +1,4 @@
+Zuzanna Poznańska:
+kod, testowanie, dokumentacja testowa, uml
+Aleksandra Prodziewicz:
+dokument wizji i zakresu, srs, prezentacja, uml
